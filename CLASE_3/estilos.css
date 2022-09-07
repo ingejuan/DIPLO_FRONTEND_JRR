@@ -1,0 +1,15 @@
+header{
+    background-color: aquamarine;
+}
+
+h1 {
+    color: rgb(68, 12, 221);
+}
+
+.contenido_rojo{
+    background-color: rgb(240, 15, 8);
+}
+
+.contenido_azul{
+    background-color: rgb(8, 43, 241);
+}
